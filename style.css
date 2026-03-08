@@ -11,13 +11,13 @@ body{
 }
 
 .love-bg{
-    background: radial-gradient(circle, #ff9a9e, #fc8097);
+    background: radial-gradient(circle, #f3b8ba, #fc8097);
     transition: 0.8s;
 }
 
 #message{
     display:none;
-    font-size:70px;
+    font-size:90px;
     color:white;
     position:absolute;
     top:50%;
