@@ -1,5 +1,5 @@
 // TYPEWRITER TEXT
-const text = "Do you still love me?"
+const text = "Do you still want to be my best? 🥺"
 let index = 0
 
 function typeWriter(){
@@ -65,7 +65,7 @@ yesBtn.addEventListener("click", () => {
 
     // tampilkan pesan
     const msg = document.getElementById("message")
-    msg.innerHTML = "I knew it ❤️"
+    msg.innerHTML = "I'm too, best ❤️"
     msg.style.display = "block"
 
 })
